@@ -1,0 +1,14 @@
+.form-group {
+    border: 3px solid #ccc;
+    border-radius: 5px;
+    margin: 20px auto;
+    width: 600px;
+    padding: 25px;
+  }
+  
+  .title {
+    margin: 10px auto;
+    text-align: center;
+  }
+  
+  #a1,#a2 {display:none;}
